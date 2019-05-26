@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [STM32F103RCT6最小系统.PrjPCB]
+   Generated File[Pick Place for PCB1.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:47:26 On 2019/5/23

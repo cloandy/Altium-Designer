@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\user\Desktop\用Altium Designer16 绘制STM32开发板PCB 直播课程\STM32\STM32.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32-slotholes.txt|DrillLayers=gtl,gbl
